@@ -1,0 +1,10 @@
+### Missing 3D models - created on 2025-06-06 10:19
+### Printed by checking_3D_models plugin
+Board file: D:/relay version/v2/automation-relay/automation.kicad_pcb
+3D missing models written to:
+D:\relay version\v2\automation-relay\automation_missing3Dmodels.txt
+-------
+('J14', 'C:\\Program Files\\KiCad\\8.0\\share\\kicad\\3dmodels\\TerminalBlock.3dshapes\\TerminalBlock_bornier-2_P5.08mm.wrl')
+-------
+NUM of 3D missing models:1
+checked extensions ['.stp', '.step', '.stpZ']

@@ -1,0 +1,18 @@
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-F_Cu.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-B_Cu.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-F_Adhesive.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-B_Adhesive.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-F_Paste.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-B_Paste.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-F_Silkscreen.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-B_Silkscreen.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-F_Mask.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-B_Mask.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-Edge_Cuts.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-Margin.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-F_Courtyard.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-B_Courtyard.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-F_Fab.gbr'.
+Plotted to 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-B_Fab.gbr'.
+Created Gerber job file 'D:\relay version\v2\LIMINAL -K -RELAY_GERBER\automation-job.gbrjob'.
+Info: Done.

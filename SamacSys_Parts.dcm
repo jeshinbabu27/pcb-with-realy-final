@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SRD-05VDC-SL-C
+D Relay
+K
+F http://files.microjpm.webnode.com/200001010-dda41de9e1/Songle%20Relay%20Datasheet.pdf
+$ENDCMP
+#
+$CMP 691311500003
+D Wurth Elektronik 311 Series 5.08mm Pitch Straight Pluggable Terminal Block, PCB Header, Through Hole, 3 Way
+K
+F http://katalog.we-online.de/em/datasheet/6913115000xx.pdf
+$ENDCMP
+#
+#End Doc Library
